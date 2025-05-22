@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as i,ae as o}from"./chunks/framework.DAGYM6_V.js";const h=JSON.parse('{"title":"About this app","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),r={name:"about.md"};function s(n,a,l,c,p,u){return i(),e("div",null,a[0]||(a[0]=[o("",10)]))}const m=t(r,[["render",s]]);export{h as __pageData,m as default};

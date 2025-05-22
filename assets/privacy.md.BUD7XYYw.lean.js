@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as i,ae as r}from"./chunks/framework.DAGYM6_V.js";const d=JSON.parse('{"title":"Privacy policy","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md","filePath":"privacy.md"}'),s={name:"privacy.md"};function a(n,e,c,l,p,h){return i(),t("div",null,e[0]||(e[0]=[r("",2)]))}const y=o(s,[["render",a]]);export{d as __pageData,y as default};
